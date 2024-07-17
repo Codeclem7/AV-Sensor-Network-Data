@@ -1,4 +1,4 @@
-# AV Sensor Network Data - AV23 Dataset
+# AV Sensor Network Data - AV23-DET Dataset
 
 Welcome to the AV Sensor Network Data repository. This repository contains data collected from a network of sensors deployed in autonomous vehicles. The data includes various sensor readings, metadata, and analysis tools to help researchers and developers understand and utilize the information.
 
